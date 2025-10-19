@@ -1,0 +1,11 @@
+# 📦 Requirements для Yamato Bot
+
+aiogram
+asyncio
+python-dotenv
+
+# Для продакшену додай:
+# psycopg2-binary  # PostgreSQL
+# celery  # Відкладені задачі
+# redis  # Для Celery
+# sqlalchemy  # ORM

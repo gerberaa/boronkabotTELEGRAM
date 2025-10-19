@@ -1,0 +1,24 @@
+{
+  "7595525097": {
+    "timestamp_start": "2025-10-19T22:06:10.887613",
+    "stage": "start",
+    "button_clicked": "get_info",
+    "block2_sent": true,
+    "tutorial_sent": "2025-10-19T22:06:17.010673",
+    "block3_sent": true,
+    "block4_sent": true,
+    "block5_sent": true,
+    "survey_started": true,
+    "name": "Pilk",
+    "experience": "newbie",
+    "pain_points": [
+      "losses",
+      "start",
+      "experts",
+      "infoscam"
+    ],
+    "goal": "passive",
+    "block7_sent": true,
+    "conversion_sent": true
+  }
+}
